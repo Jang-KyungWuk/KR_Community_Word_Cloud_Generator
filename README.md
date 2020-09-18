@@ -13,6 +13,8 @@ ipynb 파일들은 Google Colab 환경에서 작성되었습니다.
 
 >DCinside
 >>DCinside Keyword Analyzer.ipynb\
+>>amiya_b.png\
+>>ark_user_dic_v20200918.txt\
 >>hypergryph WC legend 9-18-23-54 1\~20.png\
 >>hypergryph WC legend 9-18-23-54 21\~40.png\
 >>hypergryph WC legend 9-18-23-54 41\~60.png\
