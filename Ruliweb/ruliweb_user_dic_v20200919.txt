@@ -1,0 +1,273 @@
+스노우페더	NNP
+스노우 페도	NNP
+날씨의 아이	NNP
+이순신	NNP
+원균	NNP
+어나더	NNP
+힛갤	NNP
+웹툰	NNP
+게이브	NNP
+페코린느	NNP
+페코	NNP
+캬루	NNP
+페이스앱	NNP
+건덕	NNP
+오덕	NNP
+오타쿠	NNP
+씹덕	NNP
+ㄴㄷㅆ	NNP
+히데오 코지마	NNP
+데스 스트랜딩	NNP
+리요	NNP
+호타루	NNP
+GTA5	NNP
+GTA	NNP
+GTA 5	NNP
+어그로	NNP
+검은사막	NNP
+무과금	NNP
+펀쿨색	NNP
+펀쿨섹	NNP
+고오쓰	NNP
+ruliweb	NNP
+Ruliweb	NNP
+루리웹	NNP
+로리웹	NNP
+소전	NNP
+@	NNP
+소녀전선	NNP
+아이마스	NNP
+칸코레	NNP
+명일	NNP
+명방	NNP
+명빵	NNP
+돌고래	NNP
+로리	NNP
+로리콘	NNP
+로리콘콘	NNP
+페도	NNP
+하와와	NNP
+호에에	NNP
+호에	NNP
+마망	NNP
+눈나	NNP
+누나	NNP
+플스	NNP
+엑박	NNP
+지존박스	NNP
+닌스피거	NNP
+도슬람	NNP
+도타2	NNP
+도타	NNP
+롤	NNP
+LOL	NNP
+lol	NNP
+리오레	NNP
+리그 오브 레전드	NNP
+리그오브레전드	NNP
+워딩	NNP
+갈라치기	NNP
+가테	NNP
+가디언테일즈	NNP
+파판	NNP
+메갈	NNP
+일베	NNP
+일베충	NNP
+포켓몬	NNP
+다이맥스	NNP
+일그오	NNP
+페그오	NNP
+한그오	NNP
+FGO	NNP
+프리코네	NNP
+프리 코네	NNP
+프린세스 커넥트	NNP
+프린세스 커넥트 리다이브	NNP
+짱구	NNP
+짱구는 못말려	NNP
+스포	NNP
+프리파라	NNP
+가면라이더	NNP
+괴짜가족	NNP
+괴짜 가족	NNP
+셋쇼마루	NNP
+오로치마루	NNP
+오로치마로	NNP
+코난	NNP
+그체	NNP
+그랜드 체이스	NNP
+붕괴3	NNP
+붕3	NNP
+키아나	NNP
+메이	NNP
+율자	NNP
+브로냐	NNP
+572	NNP
+오취리	NNP
+이오	NNP
+사마의	NNP
+안페협	NNP
+메갈리아	NNP
+유희왕	NNP
+듀링	NNP
+듀얼 링크스	NNP
+한도라	NNP
+일도라	NNP
+한퍼드	NNP
+일퍼드	NNP
+퍼즈도라	NNP
+퍼즐앤드레곤	NNP
+퍼즐앤드래곤	NNP
+폴가이즈	NNP
+라오진	NNP
+라오	NNP
+라스트 오리진	NNP
+라스트오리진	NNP
+원펀맨	NNP
+유스티아나	NNP
+건담	NNP
+스타2	NNP
+데하카	NNP
+스투	NNP
+스2	NNP
+새벽빛의 날개	NNP
+상특	NNP
+이누야샤	NNP
+타입문	NNP
+서번트	NNP
+러키스타	NNP
+럭키스타	NNP
+이즈마 코나타	NNP
+코나타	NNP
+유게	NNP
+유게이	NNP
+라그나로크 오리진	NNP
+원피스	NNP
+Fate	NNP
+디첩	NNP
+근첩	NNP
+가페	NNP
+네덕	NNP
+비틱	NNP
+스타듀밸리	NNP
+스타듀 밸리	NNP
+페제	NNP
+야짤	NNP
+노조미	NNP
+히토미	NNP
+폰헙	NNP
+스팀	NNP
+플게	NNP
+플정게	NNP
+북유게	NNP
+악역영애	NNP
+텐가	NNP
+일뽕	NNP
+호라이즌 제로 던	NNP
+호제던	NNP
+레식	NNP
+레인보우식스시즈	NNP
+레보식	NNP
+가챠	NNP
+히로인	NNP
+이세카이	NNP
+간다무	NNP
+탈코	NNP
+촉한	NNP
+강유	NNP
+유비	NNP
+관우	NNP
+장비	NNP
+제갈량	NNP
+제갈공명	NNP
+제갈 공명	NNP
+피방	NNP
+발치몽	NNP
+디시인	NNP
+디씨인	NNP
+디시	NNP
+킹반인	NNP
+바스트	NNP
+모핑	NNP
+ㅗㅜㅑ	NNP
+Face app	NNP
+걸 카페 건	NNP
+걸카페건	NNP
+걸카건	NNP
+로스트아크	NNP
+로스트 아크	NNP
+피규어	NNP
+쿄우카	NNP
+오리콘	NNP
+GS25	NNP
+DIO	NNP
+죠죠	NNP
+죠죠의 기묘한 모험	NNP
+발치몽	NNP
+MC몽	NNP
+슈사스	NNP
+슈퍼 사스	NNP
+베이쥬	NNP
+미호크	NNP
+케이네스	NNP
+게이네스	NNP
+용팔이	NNP
+082	NNP
+지포스	NNP
+암드	NNP
+라데온	NNP
+msi	NNP
+몬헌	NNP
+닌다	NNP
+몬헌 라이즈	NNP
+몬헌 스토리즈	NNP
+몬스터헌터	NNP
+아본	NNP
+몬스터헌터 라이즈	NNP
+몬스터헌터 스토리즈	NNP
+몬다	NNP
+노아	NNP
+용산	NNP
+용던	NNP
+돈스파이크	NNP
+마리텔	NNP
+쯔앙	NNP
+사펑	NNP
+사이버펑크	NNP
+사이버펑크 2077	NNP
+사펑 2077	NNP
+싸펑	NNP
+싸펑 2077	NNP
+3080	NNP
+2080	NNP
+조두순	NNP
+엠팍	NNP
+앰팍	NNP
+약후	NNP
+후방	NNP
+커맨드	NNP
+주호민	NNP
+침착맨	NNP
+주펄	NNP
+병건	NNP
+김성희	NNP
+G식백과	NNP
+소울워커	NNP
+세아	NNP
+임포스터	NNP
+어몽어스	NNP
+임신포스터	NNP
+총판	NNP
+FBI	NNP
+애드센스	NNP
+스펠렁키	NNP
+스펠렁키2	NNP
+바하3	NNP
+슬더스	NNP
+슬레이 더 스파이어	NNP
+바이오하자드	NNP
+라잔	NNP
+로짱	NNP
+역전재판	NNP
+역재	NNP
+크킹	NNP
