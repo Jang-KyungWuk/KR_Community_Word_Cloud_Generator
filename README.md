@@ -39,7 +39,7 @@ ipynb 파일들은 Google Colab 환경에서 작성되었습니다.
 >
 >Keyword Analyzer.ipynb\
 >README.md\
->dc_ark_user_dic_v20201106.txt\
+>dc_ark_user_dic_v20210121.txt\
 >ruliweb_user_dic_v20201109.txt\
 
 ## Keyword Analyzer.ipynb
@@ -54,7 +54,7 @@ This instruction file.
 
 이 문서입니다.
 
-## dc_ark_user_dic_v20201106.txt
+## dc_ark_user_dic_v20210121.txt
 
 Custom word corpus for DCinside Arknights Community.\
 This word corpus can be used on Komoran morpheme analyzer
