@@ -1,7 +1,7 @@
 # KR Community Word Cloud Generator
 
-Word Cloud generator for dcinside and ruliweb\
-디시인사이드, 루리웹 용 워드클라우드 생성기
+Word Cloud generator for dcinside, ruliweb, arcalive\
+디시인사이드, 루리웹, 아카라이브용 워드클라우드 생성기
 
 Each folder has legacy version ipynb file and its test results and resources such as mask image, custom corpus.\
 ipynb files were written at Google Colab environment.
@@ -46,7 +46,7 @@ ipynb 파일들은 Google Colab 환경에서 작성되었습니다.
 
 ipynb file that contains web crawling, morpheme analysis, wordcloud generating codes for DCinside, Ruliweb community.
 
-DCinside, Ruliweb 등의 웹크롤링, 형태소 분석, 워드클라우드 생성 기능이 포함된 ipynb 파일입니다.
+DCinside, Ruliweb, 아카라이브의 웹크롤링, 형태소 분석, 워드클라우드 생성 기능이 포함된 ipynb 파일입니다.
 
 ## README.md
 
